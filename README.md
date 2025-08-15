@@ -122,6 +122,6 @@ ISC
 
 ## Author
 
-Shahinul Rafi - 21701023 \
+S. M. Shahinul Karim - 21701023 \
 Sahib Abbas Bahar Chowdhury - 21701022 \
 Misbah Ul Haque Arafat - 21701033
