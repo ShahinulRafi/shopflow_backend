@@ -73,7 +73,7 @@ A robust e-commerce backend API built with Node.js, Express, and Prisma ORM. Thi
   ```bash
   npm run dev
   ```
-  The server will start on http://localhost:4001
+  The server will start on http://localhost:5000
 
 ## API Endpoints
 
