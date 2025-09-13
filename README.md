@@ -123,5 +123,5 @@ ISC
 ## Author
 
 S. M. Shahinul Karim - 21701023 \
-Sahib Abbas Bahar Chowdhury - 21701022 \
+Sahib AB Chowdhury - 21701022 \
 Misbah Ul Haque Arafat - 21701033
